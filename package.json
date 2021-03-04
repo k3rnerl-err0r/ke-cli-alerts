@@ -1,6 +1,6 @@
 {
 	"name": "ke-cli-alerts",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Cross platform CLI Alerts with colours and colored symbols for success, info, warning and error. It works on Mac OS, GNU/Linux and Windows.",
 	"main": "index.js",
 	"files": [
