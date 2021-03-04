@@ -18,7 +18,7 @@
 		"url": "https://twitter.com/k3rnel_err0r"
 	},
 	"license": "ISC",
-	"repository": "k3rnerl-err0r/cli-alerts",
+	"repository": "k3rnerl-err0r/ke-cli-alerts",
 	"devDependencies": {
 		"prettier": "^2.2.1"
 	},
