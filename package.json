@@ -1,0 +1,33 @@
+{
+	"name": "ke-cli-alerts",
+	"version": "0.0.1",
+	"description": "Cross platform CLI Alerts with colours and colored symbols for success, info, warning and error. It works on Mac OS, GNU/Linux and Windows.",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli-alerts",
+		"Antonio",
+		"Quintero-Felizzola",
+		"k3rnel_err0r"
+	],
+	"author": {
+		"name": "Antonio Quintero-Felizzola",
+		"email": "antonio.qfel@gmail.com",
+		"url": "https://twitter.com/k3rnel_err0r"
+	},
+	"license": "ISC",
+	"repository": "k3rnerl-err0r/cli-alerts",
+	"devDependencies": {
+		"prettier": "^2.2.1"
+	},
+	"dependencies": {
+		"chalk": "^4.1.0",
+		"log-symbols": "^4.0.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**.{js, json}\""
+	}
+}
