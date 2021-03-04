@@ -8,15 +8,14 @@
 
 <hr>
 
-## ke-cli-alerts
-<hr>
+# ke-cli-alerts
 
-### Install
+## Install
 ```javascript
 npm install ke-cli-alerts
 ```
 
-### Usage
+## Usage
 ```javascript
 const alert = require('ke-cli-alerts');
  
@@ -41,7 +40,8 @@ alert({type: 'success', msg: 'Everything finished!', name: 'DONE'});
 // Prints: ✔ DONE Everything finished!
 ```
 
-### API
+
+## API
 alert(options)
 
 ➜ **options**
